@@ -1,2 +1,2 @@
-# fleetman-global-config
+# globalrecipients-global-config
 A sample set of properties for Spring Cloud Config
